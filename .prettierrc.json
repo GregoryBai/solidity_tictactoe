@@ -1,7 +1,11 @@
 {
-	"svelteSortOrder": "options-styles-scripts-markup",
-	"svelteStrictMode": true,
-	"svelteBracketNewLine": false,
-	"svelteAllowShorthand": false,
-	"svelteIndentScriptAndStyle": false
+    "svelteSortOrder": "options-styles-scripts-markup",
+    "svelteStrictMode": true,
+    "svelteBracketNewLine": true,
+    "svelteAllowShorthand": false,
+    "svelteIndentScriptAndStyle": true,
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
 }
